@@ -1,0 +1,24 @@
+{
+    "user": [
+      {
+        "id": "Akshay",
+        "name": "Akshay",
+        "password": "12345678",
+        "email": "akshay@gmail.com",
+        "phone": "9792313578",
+        "country": "usa",
+        "address": "barra-8",
+        "gender": "male"
+      },
+      {
+        "id": "Akshay12",
+        "name": "Deepak Sharma ",
+        "password": "12345678",
+        "email": "Akshay12@gmail.com",
+        "phone": "123456789",
+        "country": "singapore",
+        "address": "",
+        "gender": "male"
+      }
+    ]
+  }
